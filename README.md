@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kate McAlpine</h1>
-<h3 align="center">A BEng(CompSys)(Hons) & BEng(ElecElect)(Hons) final year student, with accreditations in Marketing, Business, Front-End Web Dev, and Game Dev</h3>
 
 <!--
 <p align="left">
