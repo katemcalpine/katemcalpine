@@ -7,11 +7,13 @@
 </p>
 -->
 
-### 🚀 About Me
-- 🔧 Passionate about **cybernetic applications in medical devices, such as smart prosthetics and bionics**
-- 🎮 Experience building **various embedded systems projects**
-- 💡 Interested in **Machine Learning, data and signal analysis, and Internet of Medical Things**
-- 🌱 Currently expanding skills in **machine learning & advanced systems design**
+### 🎀 About Me
+- 🤖 Final year student of a combined Bachelor of Computer Systems Engineering (Hons) and Bachelor of Electrical and Electronic Engineering (Hons)
+- ✏️ AQF Level 8 Course Coordinator (Programming)
+- 🎮 Accreditations in Front-End Web Dev, Business, and Game Dev
+- ❤️ Passionate about cybernetic applications in medical devices, such as smart prosthetics and bionics
+- 💡 Interested in Machine Learning, data/signal analysis, and their applications to Internet of Medical Things
+- 🌱 Currently expanding skills in Machine Learning & advanced systems design
 <br/>
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=katemcalpine&label=Profile%20views&color=0e75b6&style=flat" alt="katemcalpine" /> </p>
 
