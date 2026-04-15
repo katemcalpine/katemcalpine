@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kate McAlpine</h1>
 <h3 align="center">A BEng(CompSys)(Hons) & BEng(ElecElect)(Hons) final year student, with accreditations in Marketing, Business, Front-End Web Dev, and Game Dev</h3>
-<br/>
 
 <!--
 <p align="left">
@@ -8,6 +7,12 @@
 </p>
 -->
 
+### 🚀 About Me
+- 🔧 Passionate about **cybernetic applications in medical devices, such as smart prosthetics and bionics**
+- 🎮 Experience building **various embedded systems projects**
+- 💡 Interested in **Machine Learning, data and signal analysis, and Internet of Medical Things**
+- 🌱 Currently expanding skills in **machine learning & advanced systems design**
+<br/>
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=katemcalpine&label=Profile%20views&color=0e75b6&style=flat" alt="katemcalpine" /> </p>
 
 <h3 align="left">Connect with me:</h3>
