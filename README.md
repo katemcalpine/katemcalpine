@@ -16,12 +16,12 @@
 <br/>
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=katemcalpine&label=Profile%20views&color=0e75b6&style=flat" alt="katemcalpine" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kate-mcalpine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kate-mcalpine" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🖥️ Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,arduino,c,cpp,cs,html,css,discord,anaconda,blender,gmail,instagram,java,latex,linkedin,linux,matlab,octave,php,pycharm,py,raspberrypi,stackoverflow,sublime,unity,visualstudio,wordpress&perline=14" />
